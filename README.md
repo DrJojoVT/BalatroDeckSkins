@@ -4,6 +4,8 @@ If using the mod for streaming/content creation purposes, it would be appreciate
 
 **IT IS RECOMENDED TO USE [STEAMMODDED](https://github.com/Steamodded/smods) TO ADD THESE CARDS**
 
+Add the folder "DrJojo_BalatroDecks" to %appdata%/Balatro/Mods/ folder.
+
 ## Hearts
 
 ![Katya](Preview/KatyaBalatro.png)
