@@ -20,7 +20,7 @@ Add the folder "DrJojo_BalatroDecks" to %appdata%/Balatro/Mods/ folder.
 
 ## Clubs
 
-![LucidClubs](Preview/LucidBalatro2.png)
+![LucidClubs](Preview/LucidBalatro3.png)
 
 [Kagami Furi](https://x.com/KagamiFuri)
 [Tea the Khajit](https://x.com/Tea_The_Khajiit)
@@ -44,7 +44,7 @@ Add the folder "DrJojo_BalatroDecks" to %appdata%/Balatro/Mods/ folder.
 
 ## Spades
 
-![LucidSpades](Preview/LucidBalatro2.png)
+![LucidSpades](Preview/LucidBalatro4.png)
 
 [Reiya Sumire](https://x.com/Reiyasumire)
 [Boomi Mamana](https://x.com/stfuboomi)
