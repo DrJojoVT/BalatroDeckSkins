@@ -1,0 +1,9 @@
+{
+  "id": "DrJojoFaceCards",
+  "name": "Dr Jojo Cards",
+  "author": ["DrJosephJorgen"],
+  "description": "Adds custom pixel art face cards split across 4 suit sheets.",
+  "version": "1.0.0",
+  "prefix": "drjojo",
+  "main_file": "main.lua"
+}
