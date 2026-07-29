@@ -1,0 +1,9 @@
+{
+  "id": "VarProEquilibrium",
+  "name": "Variance Equilibrium Cards",
+  "author": ["DrJosephJorgen"],
+  "description": "Adds custom pixel art face cards split across 4 suit sheets.",
+  "version": "1.0.1",
+  "prefix": "VarProEquilibrium",
+  "main_file": "EquilibriumCards.lua"
+}
