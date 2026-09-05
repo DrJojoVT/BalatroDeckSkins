@@ -55,3 +55,11 @@ Add the folder "DrJojo_BalatroDecks" to %appdata%/Balatro/Mods/ folder.
 ![Ava](Preview/AvaBalatro.png)
 
 [Avaritia Hawthorne](https://x.com/AvaHawt)
+
+![Embyr](Preview/EmbyrSparks.png)
+
+[Embyr Sparks](https://x.com/embyrsparks)
+
+![Ceci](Preview/CeciliaLent.png)
+
+[Embyr Sparks](https://x.com/CeciliaLent_)
